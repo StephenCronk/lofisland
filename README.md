@@ -3,8 +3,6 @@ support for lofisland
 email: lofislandd@gmail.com  
 twtr: @lofisland
 
-theme: minima
-
 **Privacy Policy for lofisland**
 Last updated: November 24, 2022
 
