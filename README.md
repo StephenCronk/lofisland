@@ -1,4 +1,4 @@
 # lofisland  
 support for lofisland  
-email: lofisland@gmail.com  
+email: lofislandd@gmail.com  
 twtr: @lofisland
